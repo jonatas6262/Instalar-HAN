@@ -222,6 +222,8 @@ function triggerX()
 	<h3>Supports CEX 4.84 - 4.88 HFW Firmware</h3>
 	<p><span style="color:#000000">More details & news on</span> <a href="http://www.psx-place.com/forums/ps3xploit">http://www.psx-place.com</a><br><br><span style="color:#000000">PS3Xploit Team Donations:</span> <a href="https://www.paypal.me/nopsn">https://www.paypal.me/nopsn</a></p>
 	<hr></div>
+	<p>Instalar Esse Primeiro, Menu HAN Nativo - <a href="https://archive.org/download/han_20210725_202107/HAN.p3t">PS3HAN</a></p>
+	<p>Instalar Esse Segundo, Menu HAN Nativo -&nbsp;<a href="https://archive.org/download/ps-3-han/PS3HAN.p3t">HAN</a></p>
 	<p><span style="color:#000000">USB Root Path </span>
 	<select id="combofilePath" name="fPath" size="1" onChange="selectfilePath()">
 	<option id="usb_0" selected="selected" value="/dev_usb000">/dev_usb000</option><option id="usb_1" value="/dev_usb001">/dev_usb001</option><option id="usb_6" value="/dev_usb006">/dev_usb006</option>
