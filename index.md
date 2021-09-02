@@ -1,4 +1,15 @@
-<!DOCTYPE html>
+<p><a href="https://jonatas6262.github.io/Desbloqueio-PS3/">Inicío</a></p>
+
+<a href="https://jonatas6262.github.io/Ativar-HAN/" target="_blank">Ativar HAN</a>
+
+<a href="https://jonatas6262.github.io/Ativar-DEBUG/" target="_blank">Ativar DEBUG</a>
+
+<a href="https://jonatas6262.github.io/Instalar-HAN/" target="_blank">Instalar HAN</a>
+
+<a href="https://jonatas6262.github.io/HAN-ACT-IDPS-Dumper/" target="_blank">ACT/IDPS Dumper</a>
+
+<a href="https://jonatas6262.github.io/HAN-ACT-RIF-Copier/" target="_blank">ACT/RIF Copier</a>
+
 <html>
 <head>
 <script src="ps3xploit_v305.js"></script>
